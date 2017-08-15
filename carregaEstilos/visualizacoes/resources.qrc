@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/plugins/reambulacao/carregaEstilos/visualizacoes" >
+     <file>style.jpeg</file>
+  </qresource>
+</RCC>
+

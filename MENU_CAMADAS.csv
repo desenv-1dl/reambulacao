@@ -1,0 +1,4 @@
+CATEGORIA,NOME BOTAO,CLASSE#,ATALHOS#,FECHAR_FORM#,CAMPO:VALOR#,,,,,,
+aux,objetoDescPonto,objeto_desconhecido_p,1,,tipo_comprovacao:Fotointerpretado,,,,,,
+constr,edificaoPonto,edificacao_p,1,,tipo:Desconhecido,tipo_secundario:Não aplicável,operacional:Desconhecido,situacao_fisica:Desconhecido,material_construcao:Desconhecido,administracao:Desconhecida,tipo_comprovacao:Fotointerpretado
+elemnat,trechoDrenagemLinha,trecho_drenagem_l,1,,tipo:Rio,regime:Permanente,tipo_comprovacao:Fotointerpretado,,,,

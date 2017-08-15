@@ -1,0 +1,23 @@
+[general]
+name=Conjunto de Ferramentas para Reambulação
+qgisMinimumVersion=2.12
+qgisMaximumVersion=2.99
+description=Conjunto de ferramentas para atividades de reambulação contendo : Carrega Camadas, Menu de Reambulação e Filtro de Valores nos Forms.
+
+   
+version=version 1.0
+author=me
+email=me@email.com
+
+
+changelog=
+   1.0 versão de teste
+
+tags=reambulacao
+
+
+
+experimental=False
+
+
+

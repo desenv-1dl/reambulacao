@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/plugins/reambulacao/carregaBancoSumarizado/views/icons" >
+     <file>buttonIcon.png</file>
+     <file>loading.gif</file>
+  </qresource>
+</RCC>
